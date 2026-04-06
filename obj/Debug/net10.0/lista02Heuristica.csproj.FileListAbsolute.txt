@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\Faculdade\Daniel\lista02Heuristica\obj\Debug\net10.0\lista02Heuristica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Faculdade\Daniel\lista02Heuristica\obj\Debug\net10.0\lista02Heuristica.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Faculdade\Daniel\lista02Heuristica\obj\Debug\net10.0\lista02Heuristica.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Faculdade\Daniel\lista02Heuristica\obj\Debug\net10.0\lista02Heuristica.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Faculdade\Daniel\lista02Heuristica\bin\Debug\net10.0\lista02Heuristica.exe
+C:\Users\lucas\Desktop\Faculdade\Daniel\lista02Heuristica\bin\Debug\net10.0\lista02Heuristica.deps.json
+C:\Users\lucas\Desktop\Faculdade\Daniel\lista02Heuristica\bin\Debug\net10.0\lista02Heuristica.runtimeconfig.json
+C:\Users\lucas\Desktop\Faculdade\Daniel\lista02Heuristica\bin\Debug\net10.0\lista02Heuristica.dll
+C:\Users\lucas\Desktop\Faculdade\Daniel\lista02Heuristica\bin\Debug\net10.0\lista02Heuristica.pdb
+C:\Users\lucas\Desktop\Faculdade\Daniel\lista02Heuristica\obj\Debug\net10.0\lista02Heuristica.dll
+C:\Users\lucas\Desktop\Faculdade\Daniel\lista02Heuristica\obj\Debug\net10.0\refint\lista02Heuristica.dll
+C:\Users\lucas\Desktop\Faculdade\Daniel\lista02Heuristica\obj\Debug\net10.0\lista02Heuristica.pdb
+C:\Users\lucas\Desktop\Faculdade\Daniel\lista02Heuristica\obj\Debug\net10.0\lista02Heuristica.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Faculdade\Daniel\lista02Heuristica\obj\Debug\net10.0\ref\lista02Heuristica.dll
